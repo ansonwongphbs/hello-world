@@ -7,3 +7,6 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
   - And this
 * Start a line with a star
   * Profit!
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
